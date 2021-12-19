@@ -2,7 +2,7 @@
 
 ### Passo a passo
 
-> Caso prefira fazer o download do vídeo que mostra como fazer a instalação no Windows, [clique aqui](https://github.com/rodolfo-viana/eventos/raw/main/abraji_20200913/config/como_instalar.mp4).
+> Caso prefira fazer o download do vídeo que mostra como fazer a instalação no Windows, [clique aqui](https://github.com/rodolfo-viana/eventos/blob/main/20200913_abraji_analisededadoscompython/config/como_instalar.mp4).
 
 Python não vem "de fábrica" com Windows, e se você é usuário de MacOS ou Linux, possivelmente tem a versão 2.7 na sua máquina —versão obsoleta.
 
