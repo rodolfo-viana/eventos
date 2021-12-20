@@ -5,3 +5,5 @@
 - Open Class no IDP, 2.mar.2021: [Introdução à raspagem de dados](https://github.com/rodolfo-viana/eventos/tree/main/20210302_idp_webscraping)
 
 - Workshop no Google Developers Group de Foz do Iguaçu, 27.mar.2021: [Webscraping com Python](https://github.com/rodolfo-viana/eventos/tree/main/20210327_gdgfoz_webscrapingcompython)
+
+- MBA em Jornalismo de Dados no IDP, segundo_semestre.2021: [Módulos Python básico e estudo de caso](https://github.com/rodolfo-viana/eventos/tree/main/2021_idp_mba_pythonbasico)
