@@ -1,0 +1,42 @@
+Vamos criar dois scripts. Antes, vocês precisam ler os seguintes tópicos:
+
+- função input(): https://docs.python.org/pt-br/3.8/library/functions.html#input
+- função str.format(): https://docs.python.org/pt-br/3.8/library/stdtypes.html#str.format
+
+SCRIPT 1: 0,1 ponto
+-------------------
+
+Você é gerente de uma loja e precisa calcular o salário de cada funcionário. O salário-base é R$ 5 mil. A isso, soma-se uma variável baseada no valor total das vendas do funcionário do mês. Assim:
+
+- Abaixo de R$ 30 mil em vendas: comissão de 5% do salário-base
+- Entre R$ 30.000,01 e R$ 50 mil: comissão de 7,5% do salário-base
+- Entre R$ 50.000.01 e R$ 70 mil: comissão de 12,5% do salário-base
+- Acima de R$ 70 mil: comissão de 17,5% do salário-base
+
+Por exemplo: José vendeu R$ 47.522,00 neste mês. Seu salário será R$ 5.375,00 (ou seja, R$ 5 mil + 7,5% de R$ 5 mil). 
+
+O script precisa pedir, como input, o nome do funcionário, o mês e o valor das vendas. Como output, deve trazer a frase:
+
+> [NOME] vendeu R$ [VALOR] em [MÊS]. Seu salário é R$ [SALÁRIO].
+
+Salve o script com a extensão .py e envie para mim.
+
+SCRIPT 2: 0,2 pontos
+--------------------
+
+Este script é bastante similar ao anterior, mas mais complexo: ele considera duas variáveis.
+
+Baseando-se nas informações acima, considere que:
+
+- Se o funcionário não teve falta alguma: nenhuma redução na comissão
+- Se teve entre 1 e 3 faltas: redução de 3 pontos percentuais na comissão
+- Se teve mais de 3 faltas: redução de 5 pontos percentuais na comissão
+
+Por exemplo: José vendeu R$ 47.522,00 neste mês, mas teve 2 faltas. Seu salário será R$ 5.225,00 (ou seja, R$ 5 mil + 4,5% (7,5% - 3 p.p) de R$ 5 mil). 
+
+O script precisa pedir, como input, o nome do funcionário, o mês, o valor das vendas e a quantidade de faltas. Como output, deve trazer a frase:
+
+> [NOME] vendeu R$ [VALOR] e teve [QUANTIDADE DE FALTAS] faltas em [MÊS]. Seu salário é R$ [SALÁRIO].
+
+Novamente, salve o script com a extensão .py e envie para mim.
+
